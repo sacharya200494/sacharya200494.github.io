@@ -1,8 +1,8 @@
 # Sidharth Acharya
 **Test Automation Lead | 7.8 years of experience in test automation**
 
-+917975181782 | E: sidharth.acharya9994@gmail.com  
-BANGALORE, KA 560037
+📧 +917975181782 | ✉️ sidharth.acharya9994@gmail.com  
+📍 BANGALORE, KA 560037
 
 ---
 
