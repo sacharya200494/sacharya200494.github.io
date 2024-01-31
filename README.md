@@ -1,4 +1,7 @@
+```markdown
 # Sidharth Acharya
+**Test Automation Lead | 7.8 years of experience in test automation**
+
 +917975181782 | E: sidharth.acharya9994@gmail.com  
 BANGALORE, KA 560037
 
@@ -10,23 +13,23 @@ To constantly learn and evolve while contributing to the organization in meaning
 ---
 
 ## Skills
-- Automation Framework development
-- Python Testing tool development
-- Regression Automation
-- API Automation (Rest Assured & Unirest libraries)
-- UI Automation (Selenium & Java)
-- JS with Mocha & Chai Framework
-- Go microservice development
-- Ginkgo Test automation framework for API automation
-- Docker and Kubernetes
-- Helm and Terraform
-- Github actions and workflows setup
-- Eggplant automation
-- Database validation
-- Data-Driven and Hybrid Framework
-- Page Object Model using TestNG
-- BDD Test automation using Cucumber and Ginkgo
-- SAFe and Agile methodology
+- **Automation Framework development**
+- **Python Testing tool development**
+- **Regression Automation**
+- **API Automation (Rest Assured & Unirest libraries)**
+- **UI Automation (Selenium & Java)**
+- **JS with Mocha & Chai Framework**
+- **Go microservice development**
+- **Ginkgo Test automation framework for API automation**
+- **Docker and Kubernetes**
+- **Helm and Terraform**
+- **Github actions and workflows setup**
+- **Eggplant automation**
+- **Database validation**
+- **Data-Driven and Hybrid Framework**
+- **Page Object Model using TestNG**
+- **BDD Test automation using Cucumber and Ginkgo**
+- **SAFe and Agile methodology**
 
 ---
 
@@ -137,3 +140,4 @@ Roles: Automation framework development, automation for regression testing in Fr
 - Languages Known: English, Hindi, Odia
 
 Working as a Test Automation Lead, with 7.8 years of experience in test.
+```
