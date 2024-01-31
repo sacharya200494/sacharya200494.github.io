@@ -1,4 +1,3 @@
-```markdown
 # Sidharth Acharya
 **Test Automation Lead | 7.8 years of experience in test automation**
 
@@ -140,4 +139,3 @@ Roles: Automation framework development, automation for regression testing in Fr
 - Languages Known: English, Hindi, Odia
 
 Working as a Test Automation Lead, with 7.8 years of experience in test.
-```
